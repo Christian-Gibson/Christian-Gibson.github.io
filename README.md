@@ -1,7 +1,7 @@
 # Christian-Gibson.github.io
 
-My website that I am constructing while learning HTML and CSS in my software development program.
-Uses CSS and HTML.
+My static website that I am constructing using HTML and CSS learned in my software development program.
+Uses CSS and HTML currently, will be employing Javascript soon.
 
 <h1><i>--UNDER CONSTRUCTION--</i></h1>
 
