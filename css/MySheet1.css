@@ -4,18 +4,11 @@
     font-size:30px;
 }
 
-.dkred{
-    color:darkred;
-   
-   
-
-}
 
 
-#welcome {
-
-    font-weight:bold;
-
+a:hover {
+    background-color: gold;
 
 
 }
+
