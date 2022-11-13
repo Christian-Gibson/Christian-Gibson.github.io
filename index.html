@@ -4,15 +4,42 @@
 
 <head>
 	<title>Christian Gibson's Webpage</title>
-	<meta name="viewport" content="width=device-width, initial-scale=1.0" charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" charset="utf-8" lang="en">
 	<link href="css/MySheet1.css" rel="stylesheet" />
-	
+
+
+	<!--jQuery include-->
+	<script  src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js" ></script>
+	<script>
+		//OR, $(function () {...});
+		$(document).ready(function () {
+			$("#SimMe").click(function () {
+				$(this).fadeOut(400, function () {
+
+					$(this).fadeIn(400)
+
+
+				});
+
+
+			
+
+			});
+
+
+			
 
 
 
+		});
+
+
+
+	</script>
+	<!--jQuery end-->
 </head>
 
-<body >
+<body>
 	<h4 align="center" class="marquee1" style="color: rgb(0,20,71);">Christian A. Gibson, Software Development Student</h4>
 
 
@@ -69,50 +96,35 @@
 
 
 	<table>
-		<caption><h3>Current WGU Term (June 2022- )</h3></caption>
+		<caption><h3>Current WGU Term (November 2022- )</h3></caption>
 		<tr>
 			<th>Course ID</th>
 			<th>Course Name</th>
 			<th>Completion Status</th>
 		</tr>
 		<tr>
-			<td>C175</td>
-			<td>Data Management Foundations</td>
-			<td>Completed</td>
-		</tr>
-		<tr>
-			<td>C949</td>
-			<td>Data Structures and Algorithms</td>
-			<td>In Progress</td>
-		</tr>
-		<tr>
-			<td>C777</td>
-			<td>Web Development Applications</td>
-			<td>Not Started</td>
-		</tr>
-		<tr>
-			<td>C170</td>
-			<td>Data Management Applications</td>
-			<td>Not Started</td>
-		</tr>
-		<tr>
 			<td>C867</td>
 			<td>Scripting and Programming Applications</td>
-			<td>Not Started</td>
+			<td>In Progress...</td>
 		</tr>
 		<tr>
-			<td>D191</td>
-			<td>Advanced Data Management</td>
-			<td>Not Started</td>
+			<td>C968</td>
+			<td>Software I (C#)</td>
+			<td>In Progress...</td>
+		</tr>
+		<tr>
+			<td>C773</td>
+			<td>User Interface Design</td>
+			<td>In Progress...</td>
 		</tr>
 		
-
 
 
 
 	</table>
 
 	<br />
+
 
 	<table>
 		<caption><h3>Completed WGU Classes</h3></caption>
@@ -147,6 +159,26 @@
 			<td>Relational Databases, SQL</td>
 
 		</tr>
+		<tr>
+			<td>C949</td>
+			<td>Data Structures and Algorithms I</td>
+			<td>Data Structures, Algorithms, Time/Space Complexity</td>
+
+		</tr>
+
+		<tr>
+			<td>C777</td>
+			<td>Web Development Applications</td>
+			<td>Dynamic Webpages, Javascript</td>
+
+		</tr>
+
+		<tr>
+			<td>C484</td>
+			<td>Organizational Behavior and Leadership</td>
+			<td>Leadership skills, Conflict resolution</td>
+
+		</tr>
 
 
 	</table>
@@ -174,6 +206,7 @@
 
 
 
+	
 
 
 </body>

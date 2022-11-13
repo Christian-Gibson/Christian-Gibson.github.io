@@ -111,6 +111,10 @@ table, tr, td {
 
 
 /* Link Styles*/
+
+
+
+
 a:hover {
     background-color: gold;
 
@@ -128,19 +132,36 @@ a:hover {
 }
 
 
-/*            Title Marquee                 */
+/*            Animations               */
 .marquee1 {
     width: 65%;
     height: 65%;
     position: relative;
     line-height: 6px;
     margin: 2px;
-    transform: translateX(50%);
-    -moz-transform: translateX(50%);
-    -webkit-transform: translateX(50%);
     animation: bounce 20s linear infinite alternate;
     -moz-animation: bounce 20s linear infinite alternate;
     -webkit-animation: bounce 20s linear infinite alternate;
+    
+}
+
+
+
+@keyframes bounce {
+
+    0% {
+        -moz-transform: translateX(50%);
+        -webkit-transform: translateX(50%);
+        transform: translateX(50%);
+        
+
+    }
+
+    100% {
+        -moz-transform: translateX(-50%);
+        -webkit-transform: translateX(-50%);
+        transform: translateX(-50%);
+    }
 }
 
 
@@ -175,24 +196,14 @@ a:hover {
 
     }
 
-    @keyframes bounce {
 
-        0%{
 
-            -moz-transform: translateX(50%);
-            -webkit-transform: translateX(50%);
-            transform: translateX(50%);
 
-        }
 
-        100% {
-            -moz-transform: translateX(-50%);
-            -webkit-transform: translateX(-50%);
-            transform: translateX(-50%);
-        }
 
-    }
-    /*          Title Marquee End          */
+
+
+/*          Animations End          */
 
 
     .barrier1 {
