@@ -226,3 +226,32 @@ a:hover {
     background: rgb(0,20,71);
 }
 
+
+/*
+progress {
+    border-radius: 5px;
+    width: 90%;
+    height: 20px;
+    margin-left: -15%;
+    box-shadow: 1px 1px 4px rgba( 0, 0, 0, 0.1 );
+}
+
+    progress::-webkit-progress-bar {
+        background-color: dimgrey;
+        border-radius: 7px;
+    }
+
+    progress::-webkit-progress-value {
+        background-color: blue;
+        border-radius: 7px;
+        box-shadow: 1px 1px 5px 3px rgba( 255, 0, 0, 0.3 );
+    }
+
+    progress::-moz-progress-bar {
+     
+  }*/
+
+
+
+
+    
