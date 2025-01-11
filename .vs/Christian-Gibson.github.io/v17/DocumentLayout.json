@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\xiang\\Documents\\GitHub\\Christian-Gibson.github.io\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\xiang\\Documents\\GitHub\\Christian-Gibson.github.io\\html\\Projects1.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:html\\Projects1.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Projects1.html",
+              "DocumentMoniker": "C:\\Users\\xiang\\Documents\\GitHub\\Christian-Gibson.github.io\\html\\Projects1.html",
+              "RelativeDocumentMoniker": "html\\Projects1.html",
+              "ToolTip": "C:\\Users\\xiang\\Documents\\GitHub\\Christian-Gibson.github.io\\html\\Projects1.html",
+              "RelativeToolTip": "html\\Projects1.html",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADkAAADFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-31T11:14:37.368Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
